@@ -1,0 +1,11 @@
+{
+  "name": "simucore",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "services/*",
+    "libs/*"
+  ]
+}
